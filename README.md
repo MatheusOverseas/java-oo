@@ -1,7 +1,7 @@
 # java-oo
 Java - introdução a Orientação a Objetos
 
-## - Heranças
-## - Interfaces
-## - Abstração
+ - Heranças
+ - Interfaces
+ - Abstração
 
